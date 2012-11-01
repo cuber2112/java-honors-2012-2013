@@ -1,0 +1,31 @@
+/*
+ * Car Cost Calculator
+ * 
+ * This program takes user input of a cars list price. It then calculates the cars actual price after a 12% discount and 10% sales tax.
+ * 
+ * Aaron LaBarre
+ * 10/16/12
+ */
+
+package firstPackage;
+import TerminalIO.KeyboardReader;
+public class StarMercades {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		KeyboardReader reader=new KeyboardReader();
+		double listPrice;
+		// double discount;
+		double endPrice;
+		System.out.println("Please input the list price of the car.");
+			listPrice=reader.readDouble();
+			reader.pause();
+				endPrice=((listPrice-(listPrice*.12))*1.1); //Finds the discounted price then computes sales tax
+		System.out.println("The end price is: $"+endPrice);
+
+
+	}
+}
+

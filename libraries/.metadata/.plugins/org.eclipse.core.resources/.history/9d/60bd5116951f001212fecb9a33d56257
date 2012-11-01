@@ -1,0 +1,53 @@
+/*
+ * Taxinator
+ * 
+ * This program calculates taxes. It inputs gross salary and assumes you have to pay 7.5% on the first $58,000, your federal tax is $3000
+ * 
+ * Aaron LaBarre
+ * 10/25/12
+ */
+
+package second;
+import TerminalIO.KeyboardReader;
+public class Taxes {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		KeyboardReader reader=new KeyboardReader();
+		double ssTax;
+		double fedTax = 0;
+		double flatfedTax = 0;
+		double income;
+		double total;
+		final double FED = 0.28;
+		final double SS = 0.075;
+		final double STATE = 0.1;
+		double state;
+		System.out.print("Input gross salary:");
+			income = reader.readInt();
+			reader.pause();
+			if (income < 58000){
+				ssTax = income*SS;
+			}
+			else{
+				ssTax = 58000*SS;
+				}
+			
+			if (income > 30000){
+				fedTax = (income-30000)*FED;
+			}
+			state = income*STATE;
+			total = income - state - ssTax - fedTax - flatfedTax;
+			System.out.print(total);
+			if (income > 3000){
+				total = total - 3000;
+			}
+					total = ((int)(total*100.0 + 0.5))/100.0;
+		System.out.print("Your total income after taxes is: $"+total);
+				
+
+	}
+
+}

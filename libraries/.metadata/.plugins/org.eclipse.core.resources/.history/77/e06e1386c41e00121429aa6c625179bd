@@ -1,0 +1,41 @@
+/*
+ * Car Cost Calculator
+ * 
+ * This program takes user input of a cars list price. It then calculates the cars actual price after a 12% discount and 10% sales tax.
+ * 
+ * Aaron LaBarre
+ * 10/24/12
+ */
+
+package second;
+import TerminalIO.KeyboardReader;
+public class OthersTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		KeyboardReader reader=new KeyboardReader();
+		int test1;
+		int test2;
+		double avg;
+		System.out.print("Input score on test one:");
+			test1 = reader.readInt();
+			reader.pause();
+		System.out.print("Input score on test two:");
+			test2 = reader.readInt();
+			avg = (test1+test2)/2.0;
+			if (test1 > 100 || test2 > 100 || test1 < 40 || test2 < 40){				//checks if the inputs are valid
+				System.out.println("ERROR: Input(s) too high");
+			}
+			else if (avg < 90 && avg > 40){
+				System.out.print("You passed with a "+ avg +" average!");
+				
+			}
+			if (avg > 90 && avg < 100) {
+				System.out.print("Honor roll staus!");
+			}
+
+	}
+
+}

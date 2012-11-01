@@ -1,0 +1,275 @@
+!SESSION 2012-09-21 09:29:59.385 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_29
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-09-21 10:06:40.998
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-09-21 10:06:40.998
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:06:40.998
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:06:40.998
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-09-21 10:06:41.013
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-09-21 10:06:41.013
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:06:41.013
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:06:41.013
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-09-21 10:07:05.100
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-09-21 10:07:05.100
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:05.100
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:05.100
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-09-21 10:07:05.116
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-09-21 10:07:05.116
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:05.116
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:05.116
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-09-21 10:07:21.325
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-09-21 10:07:21.325
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:21.325
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:21.325
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-09-21 10:07:21.340
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-09-21 10:07:21.340
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:21.340
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:21.340
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-09-21 10:07:34.773
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-09-21 10:07:34.773
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:34.773
+!MESSAGE Software being installed: Android Native Development Tools 20.0.3.v201208082019-427395 (com.android.ide.eclipse.ndk.feature.group 20.0.3.v201208082019-427395)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:34.773
+!MESSAGE Missing requirement: Android Native Development Tools 20.0.3.v201208082019-427395 (com.android.ide.eclipse.ndk.feature.group 20.0.3.v201208082019-427395) requires 'org.eclipse.cdt.feature.group 0.0.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-09-21 10:07:34.788
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-09-21 10:07:34.788
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:34.788
+!MESSAGE Software being installed: Android Native Development Tools 20.0.3.v201208082019-427395 (com.android.ide.eclipse.ndk.feature.group 20.0.3.v201208082019-427395)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:34.788
+!MESSAGE Missing requirement: Android Native Development Tools 20.0.3.v201208082019-427395 (com.android.ide.eclipse.ndk.feature.group 20.0.3.v201208082019-427395) requires 'org.eclipse.cdt.feature.group 0.0.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-09-21 10:07:39.936
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-09-21 10:07:39.936
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:39.936
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:39.936
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-09-21 10:07:39.968
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-09-21 10:07:39.968
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:39.968
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:39.968
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-09-21 10:07:43.181
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-09-21 10:07:43.181
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:43.181
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:43.181
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-09-21 10:07:43.197
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-09-21 10:07:43.197
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:43.197
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:07:43.197
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-09-21 10:08:45.270
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-09-21 10:08:45.270
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:08:45.270
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:08:45.270
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-09-21 10:08:45.286
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-09-21 10:08:45.286
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:08:45.286
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:08:45.286
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-09-21 10:09:47.656
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-09-21 10:09:47.656
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:09:47.656
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:09:47.656
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-09-21 10:09:47.687
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-09-21 10:09:47.687
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:09:47.687
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-09-21 10:09:47.687
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2012-09-21 10:10:41.619
+!MESSAGE Unable to update index for central|http://repo1.maven.org/maven2
+!SESSION 2012-09-25 12:39:51.673 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_29
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.epp.usagedata.recording 1 0 2012-09-25 12:41:30.147
+!MESSAGE Usage data uploaded to http://udc.eclipse.org/upload.php in 911 milliseconds.
+!SESSION 2012-10-01 08:39:15.873 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_29
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.epp.usagedata.recording 1 0 2012-10-01 08:39:41.192
+!MESSAGE Usage data uploaded to http://udc.eclipse.org/upload.php in 2085 milliseconds.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-10-01 09:21:52.638
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-10-01 09:21:52.638
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-10-01 09:21:52.638
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-10-01 09:21:52.638
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-10-01 09:21:52.669
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-10-01 09:21:52.669
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-10-01 09:21:52.669
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-10-01 09:21:52.669
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-10-01 09:22:21.905
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-10-01 09:22:21.905
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-10-01 09:22:21.905
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-10-01 09:22:21.905
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-10-01 09:22:21.920
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-10-01 09:22:21.920
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-10-01 09:22:21.920
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-10-01 09:22:21.920
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+!SESSION 2012-10-02 09:58:53.782 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_29
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-10-02 10:03:35.687
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-10-02 10:03:35.687
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-10-02 10:03:35.687
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-10-02 10:03:35.687
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-10-02 10:03:35.749
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-10-02 10:03:35.749
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-10-02 10:03:35.749
+!MESSAGE Software currently installed: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-10-02 10:03:35.749
+!MESSAGE Missing requirement: Shared profile 1.0.0.1323263898836 (SharedProfile_epp.package.java 1.0.0.1323263898836) requires 'org.maven.ide.eclipse [1.0.0.20110607-2117]' but it could not be found
+!SESSION 2012-10-10 07:35:54.849 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_29
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.epp.usagedata.recording 1 0 2012-10-10 07:36:27.270
+!MESSAGE Usage data uploaded to http://udc.eclipse.org/upload.php in 1655 milliseconds.
+!SESSION 2012-10-15 10:49:09.001 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_29
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.epp.usagedata.recording 1 0 2012-10-15 10:49:31.746
+!MESSAGE Usage data uploaded to http://udc.eclipse.org/upload.php in 1092 milliseconds.
+!SESSION 2012-10-22 08:49:36.601 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_29
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.epp.usagedata.recording 1 0 2012-10-22 08:50:44.308
+!MESSAGE Usage data uploaded to http://udc.eclipse.org/upload.php in 1062 milliseconds.
+!SESSION 2012-10-31 08:39:05.812 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_29
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.epp.usagedata.recording 1 0 2012-10-31 08:39:26.282
+!MESSAGE Usage data uploaded to http://udc.eclipse.org/upload.php in 2403 milliseconds.
